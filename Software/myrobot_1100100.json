@@ -1,0 +1,15 @@
+{"MyRobot": [
+  {
+  "question":"[Ardu|qual;nome*]"
+  },
+   {
+  "question":"[Jade|quem;seu;dono*]"
+  },
+   {
+  "question":"[Madre|onde;nasceu*]"
+  },
+   {
+  "question":"[14|sua;idade*]"
+  }
+ ]
+}
